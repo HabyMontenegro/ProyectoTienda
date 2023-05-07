@@ -1,0 +1,12 @@
+C:\Users\carol\Desktop\ProyectoTienda\CapaEntidades\bin\Debug\CapaEntidades.dll
+C:\Users\carol\Desktop\ProyectoTienda\CapaEntidades\bin\Debug\CapaEntidades.pdb
+C:\Users\carol\Desktop\ProyectoTienda\CapaEntidades\obj\Debug\CapaEntidades.csproj.AssemblyReference.cache
+C:\Users\carol\Desktop\ProyectoTienda\CapaEntidades\obj\Debug\CapaEntidades.csproj.CoreCompileInputs.cache
+C:\Users\carol\Desktop\ProyectoTienda\CapaEntidades\obj\Debug\CapaEntidades.dll
+C:\Users\carol\Desktop\ProyectoTienda\CapaEntidades\obj\Debug\CapaEntidades.pdb
+D:\ProyectoTienda\CapaEntidades\bin\Debug\CapaEntidades.dll
+D:\ProyectoTienda\CapaEntidades\bin\Debug\CapaEntidades.pdb
+D:\ProyectoTienda\CapaEntidades\obj\Debug\CapaEntidades.csproj.AssemblyReference.cache
+D:\ProyectoTienda\CapaEntidades\obj\Debug\CapaEntidades.csproj.CoreCompileInputs.cache
+D:\ProyectoTienda\CapaEntidades\obj\Debug\CapaEntidades.dll
+D:\ProyectoTienda\CapaEntidades\obj\Debug\CapaEntidades.pdb
